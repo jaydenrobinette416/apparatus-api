@@ -1,3 +1,3 @@
 export default function connectDB() {
-  return "Database connection will go here";
+  return "mongodb+srv://<apparatusadmin>:<Base98AD>@apparatuscheck.4u79vqc.mongodb.net/?appName=apparatuscheck";
 }
