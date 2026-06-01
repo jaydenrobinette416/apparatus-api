@@ -16,3 +16,4 @@ export async function connectDB() {
   db = client.db("apparatus_system");
   return db;
 }
+
